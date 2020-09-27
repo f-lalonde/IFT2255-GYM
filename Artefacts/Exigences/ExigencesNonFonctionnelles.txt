@@ -1,0 +1,11 @@
+IFT2255 //  Devoir 1 //  #GYM // Tâche 5: Exigences Non-Fonctionnelles
+
+1. La communication entre le logiciel et Le Centre de Données #GYM doit être au plus 5 secondes afin de ne pas faire attendre le client lors d'une requête d'informations et éviter une file d'attente.
+
+2. Le logiciel doit être crypté, ou implanter toute autre stratégie afin de protéger les informations personnelles des membres et des professionnels
+
+3. Le logiciel doit être simple, demander très peu de formation pour son utilisation et doit prendre optimalement de 3 à 5 cliques pour effectuer une opération
+
+4. Le logiciel doit être compatible avec le système déjà implanté (système d'exploitation, matériel informatique, etc.)
+
+5. Le logiciel doit être extensible, afin de permettre de futures intégrations selon les besoins changeants du client

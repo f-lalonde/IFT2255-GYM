@@ -1,0 +1,11 @@
+IFT2255 //  Devoir 1 //  #GYM // Tâche 4: Risques
+
+1. Les informations personnelles pourraient se faire voler car les informations sont enregistrées sur un disque dur non protégé / encrypté.
+
+2. Un client pourrait perdre son numéro de membre ; aucune description n'est faite de la procédure à suivre.
+
+3. Aucune vérifiction des compétences et accréditation des professionnels (notamment ceux qui offrent des soins de santé).
+
+4. Un non-membre pourrait utiliser le numéro d'un client afin d'avoir accès au centre sportif / autre cas d'usurpation d'identité
+
+5. Plusieurs personnes pourraient avoir accès au GYM avec le même numéro de membre, puisqu'il n'y a pas de système de "check-out", ou de blocage d'accès pendant qu'un membre est présent. 

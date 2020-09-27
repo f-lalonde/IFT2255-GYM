@@ -1,0 +1,72 @@
+IFT2255 // Devoir #1 // Glossaire
+
+
+Frais d'adhésion : Montant mensuel payé pour avoir accès au #GYM. Le premier paiement est effectué lors de l'ouverture du compte. 
+
+Suspension de l'adhésion : Révocation des privilèges membre (accès au #GYM, aux services, etc.), lorsqu'un membre ne paie pas les frais d'adhésion mensuel. Le compte reste cependant actif.   
+montant à payer : Montant que doit débourser un membre afin d'avoir accès au gym (dans le cas des frais mensuel), ou à une séance de service payante à laquelle il s'inscrit. 
+
+Procédure comptable : Événement hebdomadaire se produisant à minuit le vendredi. Génère des enregistrements sur le disque sous forme de données de transfert électronique de fond (TEF). Génère également un rapport de synthèse et l'expédie au gérant. 
+
+Transfert électronique de fond (TEF) : Fichier contenant le nom du professionnel, le numéro du professionnel et le montant à lui transférer pour ses services de la semaine. Ce type de fichier est compatible avec les système informatique des institutions bancaires, leur permettant d'effectuer le transfert des paiements dûs aux professionnels. 
+
+Rapport de synthèse : Document faisant état des comptes payables et décrivant la liste de tous les professionnels qui doivent être payés pour la semaine en cours, le nombre de services de chacun et le total de leurs frais pour la semaine en cours. Contient également le nombre total de professionnels qui ont fourni des services cette semaine-là, le nombre total de services et le total des frais de la semaine en cours. Peut-être généré manuellement au besoin.  
+
+Gérant : Employé ayant pour tâche de superviser les finances et de s'assurer du bon fonctionnement du #GYM.
+
+Comptes payables : anglicisme pour créditeurs. OQLF : Poste du passif à court terme du bilan où figurent les dettes sur achats de marchandises, matières ou fournitures, sur prestations de services et autres opérations, contractées au cours du cycle d'exploitation [hebdomadaire].
+
+Services comptables RnB : organisation tierce responsable des procédures financières, (e.g. l'enregistrement des paiements des frais d'adhésion, la suspension des membres dont les frais sont en retard et le rétablissement des membres suspendus qui ont maintenant payé les frais dus, etc.).
+
+====  Termes nouveaux devoir 2  ↑ ====
+==== Glossaire devoir 1 corrigé ↓ ====
+
+Centre sportif: ensemble d'espaces couverts ou non, de bâtiments et de locaux organisés et équipés pour la pratique de sports déterminés et susceptibles de recevoir des spectateurs.
+
+Services : toute activité offerte par un professionnel à l'intérieur du centre sportif, e.g. entraînement, consultation, etc.
+
+Répertoire des services : Index regroupant tous les services offerts à l'intérieur du centre sportif, leur horaire, les places disponbles, etc. 
+
+Client : toute personne à qui se présente au #GYM dans l'optique d'obtenir des services.
+
+Membres : tout client en règle possédant un dossier actif.
+
+Compte : Objet dans le Centre de Données contenant l'ensemble des informations en lien avec 
+
+Requête : Envois d'une commande et d'informations au centre de données afin d'effectuer une action sur les données stockées, ou pour en stocker de nouvelles. (e.g. consulter des informations, effectuer une inscription, ouvrir un compte, etc)
+
+Inscription : Requête d'obtention d'un service futur pour un membre. Effectué par l'utilisateur du centre de données. 
+
+Confirmation : Message retourné par le centre de données, laissant savoir à l'utilisateur qu'une requête fut complétée.
+
+
+Numéro unique : Numéro d'identification unique généré lors de l'ouverture d'un compte. Possède une caractéristique particulière permettant de distinguer au premier coup d'oeil un numéro appartenant à un membre ou à un professionnel. 
+
+Code d'un service : Numéro d'identification unique généré lors de la création d'un nouveau service par un professionnel.
+
+Informations personnelles : Toute information pertinente saisie lors de la création d'un compte membre ou d'un compte professionnel.
+
+Activité physique: mouvement corporel produit par les muscles squelettiques, responsable d'une augmentation de la dépense énergétique. Dans le cadre de ce document, activité physique fera référence à la pratique sportive ainsi qu'à l'activité physique de loisirs. 
+
+Santé physique : état lorsque le fonctionnement de tous les organes d'une personne est régulier et harmonieux. 
+
+Réception : Endroit où les agents accueillent les clients et leur offrent les services. C'est ici que se trouvent les terminaux pour accéder Centre de Données #GYM.
+
+Salle des machines: salle où se trouvent les machines d'exercices.
+
+Machine d'exercice: toute machine utilisée dans le cadre d'un exercice physique. Énumération non exhaustive : vélo stationnaire, tapis roulant, elliptique, rameur, etc.
+
+Piscine: dans le contexte du centre sportif, un bassin de natation mesurant 25m de long (semi-olympique) ou 50m de long (olympique) et l'ensemble des installations qui l'entoure.
+
+Salle multisport : salle permettant la pratique de différentes disciplines sportives. Dans le cadre du document, ces sports sont le basketball, le soccer, et le tennis. Contiens également les équipements variés permettant la pratique de ces sports. 
+
+Entraînement: ensemble d'exercices physiques afin d'atteindre un objectif physique personnel.
+
+Session d'entraînement: période durant laquelle un (ou plusieurs) membre(s) exécute un entraînement préparé et supervisé par un expert en exercice physique.
+
+Consultations: rendez-vous personnel d'un membre avec un expert en exercice physique ou un expert de la santé physique afin de recevoir des avis, des conseils ou un examen de la part d'un expert en exercice physique ou un expert de la santé physique.
+
+Experts en exercice physique : personnel qualifié et approuvé par le centre, spécialisé dans un domaine de l'activité physique. Dans le cadre de ce document, il s'agit plus spécifiquement d'un entraîneur personnel, de yoga, ou de CrossFit. 
+
+Experts de la santé physique : personnel qualifié et approuvé par le centre, spécialisé dans un domaine de la santé physique. Dans le cadre de ce document, il s'agit plus spécifiquement d'un nutritionniste, d'un physiothérapeute ou d'un massothérapeute.
+

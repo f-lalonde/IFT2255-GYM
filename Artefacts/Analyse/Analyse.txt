@@ -1,0 +1,13 @@
+IFT2255 //  Devoir 1 //  #GYM // Tâche 6: Analyse
+
+Le projet sera en mode interactif. S'il ne l'est pas déjà, il faudra également informatiser le répertoire des services et permettre sa modification par le personnel autorisé à travers les interfaces. S’il est déjà informatisé, il faudra assurer sa compatibilité avec le Centre de Données.
+Les données seront stockées sur un ou plusieurs disques durs, sur un serveur. Idéalement, le serveur aurait de la redondance afin d'éviter une faille totale dans le cas d'une faille matérielle.
+Il faudra au moins un terminal par agent (ou par deux agents, selon leurs autres tâches). En assumant que GYM n'a qu'une seule succursale, le serveur peut se trouver dans un des terminaux, reliés par câbles réseau aux autres.
+Les terminaux devront comprendre tous les périphériques nécessaires pour que l'agent puisse interagir avec le système (écran, clavier, souris ou écran tactile, etc.).
+Le Centre de Données devra interagir avec deux systèmes : 
+
+1. le Répertoire des Services, auquel il doit pouvoir envoyer des commandes et recevoir les informations qui lui sont retournées.
+
+2. le système d'exploitation des terminaux, duquel il doit recevoir des commandes, et retourner l'information qui lui est demandée.
+Les utilisateurs interagiront avec le système à travers une interface graphique qui sera projetée sur les terminaux.
+
